@@ -2,12 +2,13 @@ name: MusEDWorks
 favicon: null
 layout_spectrum: 0.5463529536500573
 typography_spectrum: 0.3456559937912971
+title: Design and development studio that brings creative and playful  music­-based technologies to the marketplace.
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77427427-1
   facebook: null
   twitter: null
 opengraph:
